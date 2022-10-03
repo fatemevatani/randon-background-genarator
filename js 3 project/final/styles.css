@@ -1,0 +1,22 @@
+body{
+    font-family:cursive;
+}
+#select-color{
+    background-color: rgba(59, 59, 59, 0.8);
+    width: 400px;
+    border-radius: 5px;
+    padding: 15px;
+    color: #fff;
+    margin: 200px auto 0 auto;
+}
+#select-color input[type='range']{
+    width: 100%;
+}
+.btn{
+    text-align: center;
+}
+.random{
+    padding: 5px;
+
+
+}
